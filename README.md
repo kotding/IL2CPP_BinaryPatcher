@@ -11,8 +11,8 @@ A C# desktop application for batch patching code into `libil2cpp.so` with a user
 - Easy-to-use WinForms UI
 
 ## Screenshot
-![LibIl2Cpp Batch Patcher](<img width="777" height="584" alt="image" src="https://github.com/user-attachments/assets/a6567225-f980-4c78-8ce3-0bb6ec3d0294" />
-)
+<img width="777" height="584" alt="image" src="https://github.com/user-attachments/assets/246e23da-ef7a-4b44-ba4f-28d9484d6de0" />
+
 
 ## Usage
 1. Select architecture (ARMv7 or ARM64)
