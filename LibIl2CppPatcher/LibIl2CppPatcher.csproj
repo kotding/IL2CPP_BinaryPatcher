@@ -6,6 +6,18 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>true</SelfContained>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <PublishReadyToRun>true</PublishReadyToRun>
+    <PublishTrimmed>false</PublishTrimmed>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Version>1.0.0</Version>
+    <AssemblyTitle>LibIl2Cpp Batch Patcher</AssemblyTitle>
+    <Product>LibIl2Cpp Batch Patcher</Product>
+    <Description>Batch patch tool for libil2cpp.so files with ARMv7/ARM64 support</Description>
+    <Copyright>Copyright © 2024</Copyright>
   </PropertyGroup>
 
 </Project>
